@@ -1,0 +1,20 @@
+// 將您的設定放入此檔案中以覆寫預設值和使用者設定。
+{
+    // 控制字型家族。
+    "editor.fontFamily": "Consolas, 'Ubuntu Mono', monospace",
+
+    // 控制字型大小 (以像素為單位)。
+    "editor.fontSize": 18,
+
+    // 控制終端機的字型家族，預設為 editor.fontFamily 的值。
+    "terminal.integrated.fontFamily": "Ubuntu Mono",
+
+    // 控制是否在終端機中啟用連字字型。
+    "terminal.integrated.fontLigatures": false,
+
+    // 控制終端機的字型大小 (以像素為單位)，預設為 editor.fontSize 的值。
+    "terminal.integrated.fontSize": 18,
+
+    "terminal.integrated.shell.windows": "cmd.exe",
+    
+}
